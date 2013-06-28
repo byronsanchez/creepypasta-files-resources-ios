@@ -1,18 +1,9 @@
-        creepypasta-files-resources-ios r0.1 <http://hackbytes.com>
+        creepypasta-files-resources-ios r1.0 <http://chompix.com>
 
 This is the submodule repository containing resources used by
 "Creepypasta Files for iOS."  The master repository can be found at:
 
   http://github.com/byronsanchez/creepypasta-files-ios
-
-INSTRUCTIONS
-
-  To add this repository to the creepypasta-files-ios repository as
-  a submodule:
-
-    cd creepypasta-files-ios
-    git submodule add https://github.com/byronsanchez/creepypasta-files-resources-ios.git Resources
-    git commit -m 'first commit with submodule creepypasta-files-resources-ios'
 
 STRUCTURE
 
